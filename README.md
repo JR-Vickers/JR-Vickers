@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @JR-Vickers
-- 👀 I’m interested in blockchains.
-- 🌱 I’m currently learning Solidity.
-- 💞️ I’m looking to collaborate on dApp projects.
+- 👋 Hi, I’m jarrett
+- 👀 I’m interested in Urbit.
+- 🌱 I’m currently learning Hoon.
 - 📫 How to reach me: @0xVickers on Twitter
 
 <!---
