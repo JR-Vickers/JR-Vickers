@@ -1,7 +1,7 @@
 - 👋 Hi, I’m jarrett
-- 👀 I’m interested in Urbit.
-- 🌱 I’m currently learning Hoon.
-- 📫 How to reach me: @0xVickers on Twitter
+- 👀 I’m interested in AI.
+- 🌱 I’m currently learning Python.
+- 📫 How to reach me: @0xJarrett on Twitter
 - ~magnel-tallyt
 
 <!---
